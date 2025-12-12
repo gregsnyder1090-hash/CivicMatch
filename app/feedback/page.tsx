@@ -92,7 +92,7 @@ export default function FeedbackPage() {
       <div className="mb-8">
         <h1 className="text-3xl font-bold text-blue-600 mb-2">Feedback & Suggestions</h1>
         <p className="text-gray-700">
-          We'd love to hear from you! Share your feedback, suggestions, or suggest a PAC to add to our database.
+          We&apos;d love to hear from you! Share your feedback, suggestions, or suggest a PAC to add to our database.
         </p>
       </div>
 

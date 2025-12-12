@@ -13,11 +13,11 @@ export default function Home() {
         </h1>
         <p className="text-lg text-gray-700 mb-8 max-w-2xl mx-auto">
           CivicMatch helps you discover political action committees (PACs) that align with your values. 
-          Select your location and the issues that matter to you, and we'll show you relevant PACs 
+          Select your location and the issues that matter to you, and we&apos;ll show you relevant PACs 
           where you can make a direct impact.
         </p>
         <p className="text-base text-gray-600 mb-8 max-w-2xl mx-auto">
-          This app is informational only—we do not process donations. You'll be directed to each PAC's 
+          This app is informational only—we do not process donations. You&apos;ll be directed to each PAC&apos;s 
           website to donate directly.
         </p>
         <Link

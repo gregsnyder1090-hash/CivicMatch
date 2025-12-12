@@ -20,7 +20,7 @@ export default function AboutPage() {
           <h2 className="text-2xl font-semibold text-blue-600 mb-4">How It Works</h2>
           <p className="text-gray-700">
             Simply select your state (optional) and the issues that are important to you. 
-            We'll show you relevant PACs, prioritizing local organizations when available, 
+            We&apos;ll show you relevant PACs, prioritizing local organizations when available, 
             followed by national options. Each PAC card includes a direct link to their website 
             where you can learn more and make donations.
           </p>
@@ -34,7 +34,7 @@ export default function AboutPage() {
             </p>
             <p className="text-gray-700 mt-2">
               We are an informational platform only. All donations are made directly through 
-              each PAC's website. We are not affiliated with any of the organizations listed, 
+              each PAC&apos;s website. We are not affiliated with any of the organizations listed, 
               and we do not receive any compensation for donations made through our links.
             </p>
           </div>
@@ -43,7 +43,7 @@ export default function AboutPage() {
         <section>
           <h2 className="text-2xl font-semibold text-blue-600 mb-4">Feedback</h2>
           <p className="text-gray-700 mb-4">
-            We're always looking to improve CivicMatch and expand our database of PACs. 
+            We&apos;re always looking to improve CivicMatch and expand our database of PACs. 
             If you have feedback, suggestions, or know of a PAC that should be included, 
             please let us know!
           </p>
