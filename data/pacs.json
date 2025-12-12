@@ -304,6 +304,105 @@
     "description": "Advocates for labor and economic justice in Colorado.",
     "level": "local",
     "states": ["CO"]
+  },
+  {
+    "issue_key": "climate_environment",
+    "issue_label": "Climate & Environment",
+    "name": "Washington Conservation Action",
+    "website": "https://waconservationaction.org/",
+    "description": "Environmental advocacy and electoral action in Washington state.",
+    "level": "local",
+    "states": ["WA"]
+  },
+  {
+    "issue_key": "climate_environment",
+    "issue_label": "Climate & Environment",
+    "name": "Michigan League of Conservation Voters",
+    "website": "https://www.michiganlcv.org/",
+    "description": "Elects environmental champions in Michigan.",
+    "level": "local",
+    "states": ["MI"]
+  },
+  {
+    "issue_key": "reproductive_rights",
+    "issue_label": "Reproductive Rights",
+    "name": "Pro-Choice Minnesota",
+    "website": "https://prochoiceminnesota.org/",
+    "description": "Advocates for reproductive freedom in Minnesota.",
+    "level": "local",
+    "states": ["MN"]
+  },
+  {
+    "issue_key": "voting_rights_democracy",
+    "issue_label": "Voting Rights & Democracy",
+    "name": "Voters Not Politicians Action Fund",
+    "website": "https://votersnotpoliticians.org/",
+    "description": "Leads anti-gerrymandering efforts in Michigan.",
+    "level": "local",
+    "states": ["MI"]
+  },
+  {
+    "issue_key": "criminal_justice_policing",
+    "issue_label": "Criminal Justice & Policing",
+    "name": "Faith in Minnesota Action",
+    "website": "https://faithinminnesota.org/",
+    "description": "Faith-led justice and public safety reform in Minnesota.",
+    "level": "local",
+    "states": ["MN"]
+  },
+  {
+    "issue_key": "gun_safety",
+    "issue_label": "Gun Safety",
+    "name": "Washington Alliance for Gun Responsibility",
+    "website": "https://gunresponsibility.org/",
+    "description": "Gun violence prevention advocacy in Washington state.",
+    "level": "local",
+    "states": ["WA"]
+  },
+  {
+    "issue_key": "lgbtq_equality",
+    "issue_label": "LGBTQ+ Equality",
+    "name": "Equality Michigan Action Network",
+    "website": "https://equalitymi.org/",
+    "description": "Advocates for LGBTQ+ equality across Michigan.",
+    "level": "local",
+    "states": ["MI"]
+  },
+  {
+    "issue_key": "housing_economic_justice",
+    "issue_label": "Housing & Economic Justice",
+    "name": "Housing Justice for All Action Fund",
+    "website": "https://housingjusticeforall.org/",
+    "description": "Campaigns for tenant protections and housing justice in New York.",
+    "level": "local",
+    "states": ["NY"]
+  },
+  {
+    "issue_key": "education",
+    "issue_label": "Education",
+    "name": "Stand for Children Colorado",
+    "website": "https://stand.org/colorado/",
+    "description": "Advocates for strong public education in Colorado.",
+    "level": "local",
+    "states": ["CO"]
+  },
+  {
+    "issue_key": "immigration",
+    "issue_label": "Immigration",
+    "name": "OneArizona Action Fund",
+    "website": "https://onearizona.org/",
+    "description": "Civic engagement and immigrant justice advocacy in Arizona.",
+    "level": "local",
+    "states": ["AZ"]
+  },
+  {
+    "issue_key": "labor_workers_rights",
+    "issue_label": "Labor & Workers' Rights",
+    "name": "Minnesota AFL-CIO COPE",
+    "website": "https://www.mnaflcio.org/",
+    "description": "Political advocacy arm of Minnesota labor unions.",
+    "level": "local",
+    "states": ["MN"]
   }
 ]
 
