@@ -1,0 +1,309 @@
+[
+  {
+    "issue_key": "climate_environment",
+    "issue_label": "Climate & Environment",
+    "name": "League of Conservation Voters Action Fund",
+    "website": "https://www.lcvvictoryfund.org/",
+    "description": "Elects pro-environment candidates nationwide.",
+    "level": "national",
+    "states": []
+  },
+  {
+    "issue_key": "climate_environment",
+    "issue_label": "Climate & Environment",
+    "name": "Sierra Club Political Committee",
+    "website": "https://www.sierraclub.org/political",
+    "description": "Advocates for climate action and environmental protection.",
+    "level": "national",
+    "states": []
+  },
+  {
+    "issue_key": "climate_environment",
+    "issue_label": "Climate & Environment",
+    "name": "NRDC Action Fund",
+    "website": "https://www.nrdcactionfund.org/",
+    "description": "Supports policies and candidates that protect air, water, and climate.",
+    "level": "national",
+    "states": []
+  },
+  {
+    "issue_key": "climate_environment",
+    "issue_label": "Climate & Environment",
+    "name": "California Environmental Voters",
+    "website": "https://www.ecovote.org/",
+    "description": "California-focused environmental political advocacy.",
+    "level": "local",
+    "states": ["CA"]
+  },
+  {
+    "issue_key": "climate_environment",
+    "issue_label": "Climate & Environment",
+    "name": "Colorado Conservation Voters",
+    "website": "https://conservationco.org/",
+    "description": "Protects Colorado's environment through political action.",
+    "level": "local",
+    "states": ["CO"]
+  },
+  {
+    "issue_key": "reproductive_rights",
+    "issue_label": "Reproductive Rights",
+    "name": "EMILY's List",
+    "website": "https://www.emilyslist.org/",
+    "description": "Elects pro-choice Democratic women candidates.",
+    "level": "national",
+    "states": []
+  },
+  {
+    "issue_key": "reproductive_rights",
+    "issue_label": "Reproductive Rights",
+    "name": "Planned Parenthood Votes",
+    "website": "https://www.plannedparenthoodaction.org/",
+    "description": "Political advocacy arm of Planned Parenthood.",
+    "level": "national",
+    "states": []
+  },
+  {
+    "issue_key": "reproductive_rights",
+    "issue_label": "Reproductive Rights",
+    "name": "Reproductive Freedom for All PAC",
+    "website": "https://reproductivefreedomforall.org/",
+    "description": "Defends abortion access through electoral advocacy.",
+    "level": "national",
+    "states": []
+  },
+  {
+    "issue_key": "reproductive_rights",
+    "issue_label": "Reproductive Rights",
+    "name": "New York Abortion Access Fund Action",
+    "website": "https://nyaaf.org/",
+    "description": "Supports abortion access and reproductive justice in New York.",
+    "level": "local",
+    "states": ["NY"]
+  },
+  {
+    "issue_key": "voting_rights_democracy",
+    "issue_label": "Voting Rights & Democracy",
+    "name": "Fair Fight PAC",
+    "website": "https://fairfight.com/",
+    "description": "Combats voter suppression and expands access to the ballot.",
+    "level": "national",
+    "states": []
+  },
+  {
+    "issue_key": "voting_rights_democracy",
+    "issue_label": "Voting Rights & Democracy",
+    "name": "Let America Vote",
+    "website": "https://www.letamericavote.org/",
+    "description": "Works to protect voting rights across the U.S.",
+    "level": "national",
+    "states": []
+  },
+  {
+    "issue_key": "voting_rights_democracy",
+    "issue_label": "Voting Rights & Democracy",
+    "name": "BlackPAC",
+    "website": "https://blackpac.com/",
+    "description": "Mobilizes Black voters and leaders in elections.",
+    "level": "national",
+    "states": []
+  },
+  {
+    "issue_key": "voting_rights_democracy",
+    "issue_label": "Voting Rights & Democracy",
+    "name": "Georgia Democracy Project",
+    "website": "https://newgeorgiaproject.org/",
+    "description": "Expands civic engagement and voter access in Georgia.",
+    "level": "local",
+    "states": ["GA"]
+  },
+  {
+    "issue_key": "criminal_justice_policing",
+    "issue_label": "Criminal Justice & Policing",
+    "name": "Color of Change PAC",
+    "website": "https://colorofchange.org/",
+    "description": "Advocates for racial justice and policing reform.",
+    "level": "national",
+    "states": []
+  },
+  {
+    "issue_key": "criminal_justice_policing",
+    "issue_label": "Criminal Justice & Policing",
+    "name": "Real Justice PAC",
+    "website": "https://www.realjusticepac.org/",
+    "description": "Supports reform-minded prosecutors.",
+    "level": "national",
+    "states": []
+  },
+  {
+    "issue_key": "criminal_justice_policing",
+    "issue_label": "Criminal Justice & Policing",
+    "name": "Minnesota Justice Research Center Action",
+    "website": "https://mnjustice.org/",
+    "description": "Advocates for public safety and justice reform in Minnesota.",
+    "level": "local",
+    "states": ["MN"]
+  },
+  {
+    "issue_key": "gun_safety",
+    "issue_label": "Gun Safety",
+    "name": "Everytown for Gun Safety Action Fund",
+    "website": "https://www.everytown.org/",
+    "description": "Advances gun violence prevention policies.",
+    "level": "national",
+    "states": []
+  },
+  {
+    "issue_key": "gun_safety",
+    "issue_label": "Gun Safety",
+    "name": "Giffords PAC",
+    "website": "https://giffords.org/",
+    "description": "Supports candidates committed to gun safety.",
+    "level": "national",
+    "states": []
+  },
+  {
+    "issue_key": "gun_safety",
+    "issue_label": "Gun Safety",
+    "name": "Brady PAC",
+    "website": "https://www.bradyunited.org/",
+    "description": "Advocates for background checks and safe gun laws.",
+    "level": "national",
+    "states": []
+  },
+  {
+    "issue_key": "lgbtq_equality",
+    "issue_label": "LGBTQ+ Equality",
+    "name": "Human Rights Campaign PAC",
+    "website": "https://www.hrc.org/",
+    "description": "Elects pro-equality candidates nationwide.",
+    "level": "national",
+    "states": []
+  },
+  {
+    "issue_key": "lgbtq_equality",
+    "issue_label": "LGBTQ+ Equality",
+    "name": "Victory Fund",
+    "website": "https://victoryfund.org/",
+    "description": "Elects LGBTQ+ candidates to public office.",
+    "level": "national",
+    "states": []
+  },
+  {
+    "issue_key": "lgbtq_equality",
+    "issue_label": "LGBTQ+ Equality",
+    "name": "Basic Rights Oregon Action",
+    "website": "https://www.basicrights.org/",
+    "description": "Advocates for LGBTQ+ equality in Oregon.",
+    "level": "local",
+    "states": ["OR"]
+  },
+  {
+    "issue_key": "housing_economic_justice",
+    "issue_label": "Housing & Economic Justice",
+    "name": "Working Families Party PAC",
+    "website": "https://workingfamilies.org/",
+    "description": "Supports economic justice and housing reform candidates.",
+    "level": "national",
+    "states": []
+  },
+  {
+    "issue_key": "housing_economic_justice",
+    "issue_label": "Housing & Economic Justice",
+    "name": "People's Action Campaign",
+    "website": "https://peoplesaction.org/",
+    "description": "Grassroots advocacy for housing and economic justice.",
+    "level": "national",
+    "states": []
+  },
+  {
+    "issue_key": "housing_economic_justice",
+    "issue_label": "Housing & Economic Justice",
+    "name": "New York Communities for Change Action",
+    "website": "https://nycommunities.org/",
+    "description": "Tenant and housing justice advocacy in New York.",
+    "level": "local",
+    "states": ["NY"]
+  },
+  {
+    "issue_key": "education",
+    "issue_label": "Education",
+    "name": "Democrats for Education Reform",
+    "website": "https://dfer.org/",
+    "description": "Advocates for public education reform and equity.",
+    "level": "national",
+    "states": []
+  },
+  {
+    "issue_key": "education",
+    "issue_label": "Education",
+    "name": "Education Voters of America",
+    "website": "https://educationvoters.org/",
+    "description": "Supports candidates committed to strong public schools.",
+    "level": "national",
+    "states": []
+  },
+  {
+    "issue_key": "education",
+    "issue_label": "Education",
+    "name": "Minnesota Parents United Action",
+    "website": "https://parentsunited.org/",
+    "description": "Supports equitable public education in Minnesota.",
+    "level": "local",
+    "states": ["MN"]
+  },
+  {
+    "issue_key": "immigration",
+    "issue_label": "Immigration",
+    "name": "United We Dream Action",
+    "website": "https://unitedwedream.org/",
+    "description": "Advocates for immigrant rights and protections.",
+    "level": "national",
+    "states": []
+  },
+  {
+    "issue_key": "immigration",
+    "issue_label": "Immigration",
+    "name": "America's Voice Action",
+    "website": "https://americasvoice.org/",
+    "description": "Promotes humane immigration policies.",
+    "level": "national",
+    "states": []
+  },
+  {
+    "issue_key": "immigration",
+    "issue_label": "Immigration",
+    "name": "Make the Road Action",
+    "website": "https://maketheroadny.org/",
+    "description": "Immigrant justice and civic engagement in New York.",
+    "level": "local",
+    "states": ["NY"]
+  },
+  {
+    "issue_key": "labor_workers_rights",
+    "issue_label": "Labor & Workers' Rights",
+    "name": "AFL-CIO COPE",
+    "website": "https://aflcio.org/",
+    "description": "Political arm of organized labor.",
+    "level": "national",
+    "states": []
+  },
+  {
+    "issue_key": "labor_workers_rights",
+    "issue_label": "Labor & Workers' Rights",
+    "name": "SEIU COPE",
+    "website": "https://www.seiu.org/",
+    "description": "Supports candidates advancing workers' rights.",
+    "level": "national",
+    "states": []
+  },
+  {
+    "issue_key": "labor_workers_rights",
+    "issue_label": "Labor & Workers' Rights",
+    "name": "Colorado Working Families Party",
+    "website": "https://workingfamilies.org/state/colorado/",
+    "description": "Advocates for labor and economic justice in Colorado.",
+    "level": "local",
+    "states": ["CO"]
+  }
+]
+
